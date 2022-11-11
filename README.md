@@ -6,17 +6,18 @@ Este projeto trata-se de um app de receitas que consome dados de duas APIs, uma 
 de acompanhamentos entre outras funcionalidades. 
 
 ## Técnologias usadas
-
 > React/ Context Api
 > Jest/ React testing Library 
 
 ## Instalando Dependências
 
-npm install
-``` 
+  ```
+    npm install
+  ``` 
 ## Executando aplicação
 
-npm start
+  ```
+    npm start
   ```
 
 ## Executando Testes
