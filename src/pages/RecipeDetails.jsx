@@ -9,6 +9,7 @@ import LinkCopied from '../components/LinkCopied';
 import RecommendationCard from '../components/RecommendationCard';
 import { readlocalStorage } from '../services/hadleStorage';
 import './styles/recipeDetails.css';
+import Loading from '../components/Loading';
 
 const maxRecommendation = 6;
 
@@ -56,6 +57,7 @@ function RecipeDetails({ match }) {
 
   return (
     <div>
+      {isLoading && <Loading />}
       {!isLoading && (
         <div>
           {copyed && <LinkCopied />}
