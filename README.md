@@ -12,6 +12,10 @@ de acompanhamentos entre outras funcionalidades.
 
 ## Funcionalidades 
 
+<div>
+  <img src="src/images/RECIPESmusica_AdobeExpress (1).gif" alt="telas"/>
+</div>
+
 ## Técnologias usadas
 > React/ Context Api
 > Jest/ React testing Library 
