@@ -38,8 +38,11 @@ de acompanhamentos entre outras funcionalidades.
   <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
+   
    * Tela Recipes, DetailRecipes, RecipesInProgress, FavoriteRecipes, DoneRecipes
-   *Consumo de Apis; toggle de requisição de receitas, lógica de salvar dados no local storage
+   
+   * Consumo de Apis; toggle de requisição de receitas, lógica de salvar dados no local storage
+   
   </div>  
   <div>
     <p>Weydson Cristiano</p>
