@@ -34,19 +34,21 @@ de acompanhamentos entre outras funcionalidades.
   # Autores
   
 <div>
-  
   <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
 </div>  
   <div>
+    <p>Weydson Cristiano</p>
+    <a href="//github.com/WeydsonCristiano"><img src="https://avatars.githubusercontent.com/u/106351457?s=64&v=4" width=50></a>
 </div>  
   <div>
+    <p>Marcos Kern</p>
+    <a href="//github.com/MarcosKern"><img src="https://avatars.githubusercontent.com/u/98438915?s=64&v=4" width=50" width=50></a>
 </div>  
   <div>
+    <p>Alysson Tobias</p>
+    <a href="//github.com/alysson-tobias"><img src="https://avatars.githubusercontent.com/u/52948987?s=64&v=4" width=50" width=50></a>  
 </div>  
 </div>  
   
-
-[<img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=115><br><sub>Israel Vinícius Pereira</sub>](https://github.com/IsraelViPe/recipesApp) |  [<img src="https://avatars.githubusercontent.com/u/106351457?s=64&v=4" width=115><br><sub>Weydson Cristiano</sub>](https://github.com/WeydsonCristiano) |  [<img src="https://avatars.githubusercontent.com/u/98438915?s=64&v=4" width=115><br><sub>Marcos Kern</sub>](https://github.com/MarcosKern) | [<img src="https://avatars.githubusercontent.com/u/52948987?s=64&v=4" width=115><br><sub>Alysson Tobias</sub>](https://github.com/alysson-tobias)
-| :---: | :---: | :---: |:---: |:---: |
