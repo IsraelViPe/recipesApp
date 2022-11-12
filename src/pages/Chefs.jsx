@@ -18,7 +18,6 @@ export default function Chefs() {
 
     script.src = 'https://platform.linkedin.com/badges/js/profile.js';
     script.async = true;
-
     document.body.appendChild(script);
   }, []);
 
