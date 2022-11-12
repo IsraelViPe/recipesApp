@@ -36,8 +36,13 @@ de acompanhamentos entre outras funcionalidades.
   
 <div style="display:flex">
   <div>
+    <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
+     </div>
+      <div>
+       <p>Responsável pelos códigos da tela principal, consumo das apis, lógicas de salvar favoritos e receitas feitas e em progresso no local storage</p>
+      </div>
 </div>  
   <div>
     <p>Weydson Cristiano</p>
