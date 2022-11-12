@@ -36,7 +36,8 @@ de acompanhamentos entre outras funcionalidades.
 <div>
   
   <div>
-    <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a><sub>Israel Vinícius Pereira</sub>
+    <p>Israel Pereira</p>
+    <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
 </div>  
   <div>
 </div>  
