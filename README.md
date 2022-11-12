@@ -1,4 +1,4 @@
-<style>
+<style type="text/css" rel="stylesheet">
   .alinhar {
   color: red;
     display: flex;
