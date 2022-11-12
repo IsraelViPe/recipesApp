@@ -19,11 +19,6 @@ de acompanhamentos entre outras funcionalidades.
     npm install
   ``` 
 ## Executando aplicação
-<style>
-  .alinhar {
-    display: flex;
-  }
-</style>
 
   ```
     npm start
@@ -37,6 +32,12 @@ de acompanhamentos entre outras funcionalidades.
     npm test
   ```
   # Autores
+<style>
+  .alinhar {
+  color: red;
+    display: flex;
+  }
+</style>  
   
 <div class="alinhar">
   <div>
