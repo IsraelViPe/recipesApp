@@ -12,7 +12,7 @@ de acompanhamentos entre outras funcionalidades.
 
 ## Funcionalidades 
 <div>
-  <img src="src/images/RECIPESmusica_AdobeExpress (1).gif" alt="telas"/>
+  <img src="src/images/RECIPESmusica_AdobeExpress (1).gif" width="100px" alt="telas"/>
 </div>
 
 ## Técnologias usadas
