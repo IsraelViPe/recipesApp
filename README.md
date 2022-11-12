@@ -19,6 +19,11 @@ de acompanhamentos entre outras funcionalidades.
     npm install
   ``` 
 ## Executando aplicação
+<style>
+  .alinhar {
+    display: flex;
+  }
+</style>
 
   ```
     npm start
@@ -33,7 +38,7 @@ de acompanhamentos entre outras funcionalidades.
   ```
   # Autores
   
-<div display:flex>
+<div class="alinhar">
   <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
