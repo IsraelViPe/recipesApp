@@ -33,7 +33,7 @@ de acompanhamentos entre outras funcionalidades.
   ```
   # Autores
   
-<div style="display:flex">
+<div display:flex>
   <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
