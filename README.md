@@ -1,3 +1,9 @@
+<style>
+  .alinhar {
+  color: red;
+    display: flex;
+  }
+</style>  
 # Recipes App
 
 <div>
@@ -32,12 +38,6 @@ de acompanhamentos entre outras funcionalidades.
     npm test
   ```
   # Autores
-<style>
-  .alinhar {
-  color: red;
-    display: flex;
-  }
-</style>  
   
 <div class="alinhar">
   <div>
