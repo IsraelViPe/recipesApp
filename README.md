@@ -1,9 +1,4 @@
-<style type="text/css" rel="stylesheet">
-  .alinhar {
-  color: red;
-    display: flex;
-  }
-</style>  
+ 
 # Recipes App
 
 <div>
@@ -39,7 +34,7 @@ de acompanhamentos entre outras funcionalidades.
   ```
   # Autores
   
-<div class="alinhar">
+<div style="display:flex">
   <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
