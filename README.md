@@ -11,8 +11,6 @@ Este projeto trata-se de um app de receitas que consome dados de duas APIs, uma 
 de acompanhamentos entre outras funcionalidades. 
 
 ## Funcionalidades 
-![Uploading RECIPESmusica_AdobeExpress (1).gif…]()
-
 <div>
   <img src="src/images/RECIPESmusica_AdobeExpress (1).gif" alt="telas"/>
 </div>
