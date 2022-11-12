@@ -34,27 +34,24 @@ de acompanhamentos entre outras funcionalidades.
   ```
   # Autores
   
-<div style="display:flex">
+<div>
   <div>
-    <div>
     <p>Israel Pereira</p>
     <a href="//github.com/IsraelViPe/recipesApp"><img src="https://avatars.githubusercontent.com/u/106566391?s=64&v=4" width=50></a>
-     </div>
-      <div>
-       <p>Responsável pelos códigos da tela principal, consumo das apis, lógicas de salvar favoritos e receitas feitas e em progresso no local storage</p>
-      </div>
-</div>  
+   * Tela Recipes, DetailRecipes, RecipesInProgress, FavoriteRecipes, DoneRecipes
+   *Consumo de Apis; toggle de requisição de receitas, lógica de salvar dados no local storage
+  </div>  
   <div>
     <p>Weydson Cristiano</p>
     <a href="//github.com/WeydsonCristiano"><img src="https://avatars.githubusercontent.com/u/106351457?s=64&v=4" width=50></a>
-</div>  
+  </div>  
   <div>
     <p>Marcos Kern</p>
     <a href="//github.com/MarcosKern"><img src="https://avatars.githubusercontent.com/u/98438915?s=64&v=4" width=50" width=50></a>
-</div>  
+  </div>  
   <div>
     <p>Alysson Tobias</p>
     <a href="//github.com/alysson-tobias"><img src="https://avatars.githubusercontent.com/u/52948987?s=64&v=4" width=50" width=50></a>  
-</div>  
+ </div>  
 </div>  
   
